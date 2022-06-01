@@ -26,7 +26,7 @@ the respective rights holders.'
 
 Program Requirements
 ---------------------------------------------------------------------------------------------------
-Operating System  - Windows 10 Version 21H1 (OS Build 19043.1645)
+Operating System  - Windows 10 Pro Version 21H1 (OS Build 19043.1645)
 
 Dot Net Framework - 4.7.2
 
