@@ -70,6 +70,12 @@ Output :- MP3 Audio File
 
 The program extracts and saves the Audio stream of the given Video in MP3 format.
 
+Output Screenshot :- 
+--------------------
+
+
+![YoutubeToMp3-Output](https://user-images.githubusercontent.com/86361080/183070486-3b4a6f2f-4611-4a68-969e-0106b3fb1039.png)
+
 
 Working of the Program :- 
 --------------------------
