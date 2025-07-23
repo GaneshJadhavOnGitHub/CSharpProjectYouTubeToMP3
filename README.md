@@ -41,7 +41,10 @@ External Libraries Used
    
    Runtime Version:-  v2.0.50727
 
-NReco Video Converter component for C#.NET (wrapper for ffmpeg - Fast Forward mpeg command line tool). Used to convert video to audio file and extract video thumbnail.
+NReco Video Converter component for C#.NET (wrapper for ffmpeg - Fast Forward mpeg command line tool). 
+Used to convert video to audio file and extract video thumbnail.
+
+2. 
 
 3. Gress 
    Version:-  1.2.0.0   
