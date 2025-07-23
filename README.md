@@ -63,7 +63,7 @@ External Libraries Used
    
    Runtime Version:-  v4.0.30319
 
-   AngleSharp is a .NET parser for HTML, XML, and CSS, and it's used by YoutubeExplode
+   AngleSharp is a .NET parser for HTML, XML and it's used by YoutubeExplode
    for parsing YouTube's web pages to discover stream information.
 
    
