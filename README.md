@@ -41,27 +41,33 @@ External Libraries Used
    
    Runtime Version:-  v2.0.50727
 
-NReco Video Converter component for C#.NET (wrapper for ffmpeg - Fast Forward mpeg command line tool). 
-Used to convert video to audio file and extract video thumbnail.
+   NReco Video Converter component for C#.NET (wrapper for ffmpeg - Fast Forward mpeg command line tool). 
+   Used to encodes the downloaded audio stream to MP3 with 128 KBPS Bitrate and extract video thumbnail. 
 
-2. 
-
-3. Gress 
+2. Gress 
    Version:-  1.2.0.0   
    
    Runtime Version:-  v4.0.30319
 
-4. YoutubeExplode
+  Gress library is used to report download progress.
+   
+3. YoutubeExplode
    Version:-  6.0.5.0   
    
    Runtime Version:-  v4.0.30319
+
+   YoutubeExplode is used to query metadata of YouTube videos and to download video/audio streams.
 
 5. AngleSharp
    Version:-  0.14.0.0  
    
    Runtime Version:-  v4.0.30319
 
-Install Dependencies via nuget package manager console.
+   AngleSharp is a .NET parser for HTML, XML, and CSS, and it's used by YoutubeExplode
+   for parsing YouTube's web pages to discover stream information.
+
+   
+   Note : Install Dependencies via nuget package manager console.
 
 ---------------------------------------------------------------------------------------------------
 
