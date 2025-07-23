@@ -41,17 +41,19 @@ External Libraries Used
    
    Runtime Version:-  v2.0.50727
 
-2. Gress 
+NReco Video Converter component for C#.NET (wrapper for ffmpeg - Fast Forward mpeg command line tool). Used to convert video to audio file and extract video thumbnail.
+
+3. Gress 
    Version:-  1.2.0.0   
    
    Runtime Version:-  v4.0.30319
 
-3. YoutubeExplode
+4. YoutubeExplode
    Version:-  6.0.5.0   
    
    Runtime Version:-  v4.0.30319
 
-4. AngleSharp
+5. AngleSharp
    Version:-  0.14.0.0  
    
    Runtime Version:-  v4.0.30319
